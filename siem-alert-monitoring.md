@@ -4,7 +4,7 @@
 This analysis is based on a SOC dashboard from Let's Defend platform, where multiple security alerts are monitored and prioritized based on severity.
 
 ## Screenshot
-![SIEM Alert](screenshots:soc-dashboard.png)
+![SOC Dashboard](screenshots/siem-soc-dashboard.png)
 
 
 ---
