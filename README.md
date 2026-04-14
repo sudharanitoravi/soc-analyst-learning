@@ -16,7 +16,7 @@ This repository documents my hands-on learning and practical exercises from:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - incident-reports/ → Realistic SOC investigation cases  
 - siem-queries/ → Detection queries and use cases  
