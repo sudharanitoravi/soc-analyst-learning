@@ -94,7 +94,7 @@ parent process (e.g. cmd.exe or explorer.exe), path outside System32
 (e.g. AppData or Temp), or an unusual command line with encoded strings.*
 
 ### 6. Terminal history — 16 commands recorded
-![Terminal history](screenshots/07-terminal-history.png)
+![Terminal history](screenshots/06-terminal-history.png)
 *16 terminal commands recorded. Commands like whoami, net user, 
 ipconfig, or tasklist in terminal history indicate reconnaissance 
 activity — an attacker mapping the environment after initial access.*
