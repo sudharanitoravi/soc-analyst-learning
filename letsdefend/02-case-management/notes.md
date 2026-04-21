@@ -29,8 +29,8 @@ first place a SOC analyst checks*
 that triggered — this is what you investigate*
 
 ### 3. Taking ownership
-![Take ownership](screenshots/03-take-ownership-1.png)
 ![Take ownership](screenshots/03-take-ownership-2.png)
+![Take ownership](screenshots/03-take-ownership-1.png)
 *Taking ownership of an alert assigns it to you — standard SOC 
 triage process before investigation begins*
 
