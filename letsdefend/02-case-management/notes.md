@@ -26,12 +26,12 @@ first place a SOC analyst checks*
 ### 2. Alert detail view
 ![Alert detail](screenshots/02-alert-detail-view.png)
 *Full alert details showing source IP, destination, time, and rule 
-that triggered — this is what you investigate*
+that triggered*
 
 ### 3. Taking ownership
 ![Take ownership](screenshots/03-take-ownership-2.png)
 ![Take ownership](screenshots/03-take-ownership-1.png)
-*Taking ownership of an alert assigns it to you — standard SOC 
+*Taking ownership of an alert assigns it to me — standard SOC 
 triage process before investigation begins*
 
 ### 4. Case created
@@ -55,8 +55,8 @@ in real SOC work for handover and audit trail*
 documented, not just dismissed*
 
 ## Key Takeaways
-- Every alert needs ownership before investigation can begin
-- True Positive = real attack, escalate or remediate
-- False Positive = benign activity, close with explanation
-- Documentation inside the case is as important as the investigation itself
-- Case management creates an audit trail for every security event
+- Every alert needs ownership before investigation can begin.
+- True Positive = real attack, escalate or remediate.
+- False Positive = benign activity, close with explanation.
+- Documentation inside the case is as important as the investigation itself.
+- Case management creates an audit trail for every security event.
