@@ -55,9 +55,6 @@ No filter applied. Shows total log volume.
 ![Raw log](screenshots/08-raw-log-field-example.png)
 *The raw_log field shows the original log line before parsing — SIEM tools structure this into searchable fields*
 
-### 9. Field value breakdown
-![Field breakdown](screenshots/09-field-value-breakdown-source-address.png)
-*Clicking source_address in the left panel shows which IPs appear most — quick way to spot outliers*
 
 ## Key Takeaways
 - Log filtering by IP and port is the first step in any SOC investigation
