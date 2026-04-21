@@ -1,37 +1,27 @@
 
-# SOC Analyst Learning 
+# SOC Analyst Learning
 
-This repository documents my hands-on learning and practical exercises from:
+This repository documents my hands-on learning from LetsDefend SOC Analyst 
+Fundamentals, TryHackMe SOC Level 1, and related cybersecurity training.
 
-- Let's Defend SOC Analyst Fundamentals
-- SIEM and log analysis training
-- Incident detection and response practices
+## What's Inside
 
-## Focus Areas
-- Security Monitoring
-- Log Analysis
-- Incident Detection
-- Threat Investigation
-- SIEM Queries
+| Folder | Contents |
+|--------|----------|
+| `letsdefend/01-log-management` | Log search queries, screenshots, notes |
+| `letsdefend/02-case-management` | Alert triage, case handling |
+| `letsdefend/03-endpoint-security` | EDR analysis, process investigation |
+| `letsdefend/04-email-security` | Phishing analysis, header investigation |
+| `letsdefend/05-threat-intelligence` | IOC lookups, MITRE ATT&CK mapping |
+| `letsdefend/06-sandbox-analysis` | Malware behaviour analysis |
 
----
+## Currently Working On
+- LetsDefend SOC Analyst Fundamentals
+- TryHackMe SOC Level 1
+- Mastercard & AIG Forage simulations
 
-## Repository Structure
-
-- incident-reports/ → Realistic SOC investigation cases  
-- siem-queries/ → Detection queries and use cases  
-- notes/ → SOC concepts and learning notes  
-
----
-
-## Goal
-
-To build practical SOC Analyst skills by simulating real-world security incidents and documenting investigation processes.
-
----
-
-## Tools Used
-
+## Tools & Platforms
+LetsDefend · TryHackMe · Wireshark · VirusTotal · MITRE ATT&CK
 - SIEM Platforms (simulated)
 - Log analysis techniques
 - Basic threat intelligence methods
