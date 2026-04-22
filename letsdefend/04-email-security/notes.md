@@ -63,8 +63,8 @@ only sends emails from @microsoft.com domains. The word FREE in the
 subject is a manipulation tactic — legitimate software companies do 
 not offer paid software upgrades as free email promotions.*
 
-#### 2b. Countdown timer — urgency manipulation
-![Countdown](screenshots/02b-phishing-email-body.png)
+#### 2c. Countdown timer — urgency manipulation
+![Countdown](screenshots/02c-phishing-email-footer.png)
 *"Before the action ends: 4 Days 23 Hours 59 Mins"*
 
 *A countdown timer is a deliberate psychological manipulation technique 
@@ -85,8 +85,8 @@ the email to maximise the probability of a click.*
 - No personalisation — addressed generically, not to a specific user
 - Hosted on windows-update.site, not microsoft.com
 
-#### 2d. Fake Microsoft footer
-![Footer](screenshots/02c-phishing-email-footer.png)
+#### 2b. Fake Microsoft footer
+![Footer](screenshots/02b-phishing-email-body.png)
 *The email footer replicates Microsoft's full website navigation 
 including Surface products, Microsoft Store, Azure, Education, and 
 Microsoft Learn sections. This level of detail indicates a 
