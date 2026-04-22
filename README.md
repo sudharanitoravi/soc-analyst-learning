@@ -12,8 +12,7 @@ Fundamentals, TryHackMe SOC Level 1, and related cybersecurity training.
 | `letsdefend/02-case-management` | Alert triage, case handling |
 | `letsdefend/03-endpoint-security` | EDR analysis, process investigation |
 | `letsdefend/04-email-security` | Phishing analysis, header investigation |
-| `letsdefend/05-threat-intelligence` | IOC lookups, MITRE ATT&CK mapping |
-| `letsdefend/06-sandbox-analysis` | Malware behaviour analysis |
+| `letsdefend/05-threat-intel` | IOC lookups, MITRE ATT&CK mapping |
 
 ## Currently Working On
 - LetsDefend SOC Analyst Fundamentals
